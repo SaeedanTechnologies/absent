@@ -125,6 +125,7 @@ class _LoginScreenState extends State<LoginScreen> {
               onPressed: _signIn,
               child: Text('Sign In'),
             ),
+             SizedBox(height: 20),
              ElevatedButton(
               onPressed:
               () {

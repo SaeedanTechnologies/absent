@@ -7,28 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:264392477122:android:f35de4709e8c342840ee5b",
+        "mobilesdk_app_id": "1:264392477122:android:c3fe9a2b2fac218f40ee5b",
         "android_client_info": {
-          "package_name": "com.example.atten"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAlNaqJSivo4qRqQZplBjqF61bBTHdil5s"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:264392477122:android:96d50edd1c448bd140ee5b",
-        "android_client_info": {
-          "package_name": "com.example.attendance"
+          "package_name": "com.saeedantech.pvt"
         }
       },
       "oauth_client": [],
